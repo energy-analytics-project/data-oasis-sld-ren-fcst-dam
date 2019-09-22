@@ -1,5 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-sld-ren-fcst-dam/sql/20190918_20190919_SLD_REN_FCST_DAM_20190922_11_07_46_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-sld-ren-fcst-dam/sql/20190916_20190917_SLD_REN_FCST_DAM_20190922_11_07_36_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-sld-ren-fcst-dam/sql/20190917_20190918_SLD_REN_FCST_DAM_20190922_11_07_41_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-sld-ren-fcst-dam/sql/20190920_20190921_SLD_REN_FCST_DAM_20190922_11_07_56_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-sld-ren-fcst-dam/sql/20190919_20190920_SLD_REN_FCST_DAM_20190922_11_07_51_v1.sql
+20190917_20190918_SLD_REN_FCST_DAM_20190922_11_07_41_v1.sql
+20190919_20190920_SLD_REN_FCST_DAM_20190922_11_07_51_v1.sql
+20190920_20190921_SLD_REN_FCST_DAM_20190922_11_07_56_v1.sql
+20190916_20190917_SLD_REN_FCST_DAM_20190922_11_07_36_v1.sql
+20190918_20190919_SLD_REN_FCST_DAM_20190922_11_07_46_v1.sql
